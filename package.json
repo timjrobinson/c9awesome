@@ -1,0 +1,25 @@
+{
+  "name": "awesome",
+  "description": "It does awesome stuff",
+  "version": "0.0.15",
+  "author": "",
+  "contributors": [
+    {
+      "name": "Tim",
+      "email": "tim@c9.io"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "plugins": [
+    "plugin"
+  ],
+  "categories": [
+    "fun"
+  ],
+  "licenses": [
+    "MIT"
+  ]
+}
